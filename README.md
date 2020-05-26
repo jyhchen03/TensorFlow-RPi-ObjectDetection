@@ -2,7 +2,7 @@
 
 _Development in progress._ Object detection using TensorFlow on Raspberry Pi 3.
 
-![setup1](png/rpi_setup.png)
+![setup1](jpg/rpi_setup.jpg)
 
 Tools used:
 - Raspberry Pi 3
